@@ -1,0 +1,7 @@
+eagle 3
+pheasant 8
+grouse 3
+sparrow 19
+bluejay 22
+mallard 22
+robin 16
